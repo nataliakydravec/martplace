@@ -34,12 +34,22 @@ body {
 }
 
 .section-padding{
-   padding-top: 120px;
-   padding-bottom: 120px;;
+padding-top: 120px;
+padding-bottom: 120px;;
 }
-
+.title-slider{
+font-size: 30px;
+font-weight: 500;
+box-shadow: 0 2px 4px rgba(108,111,115,0.1);
+border-radius: 4px;
+background-color: #ffffff;
+padding: 36px 0px 41px 30px;
+}
 .title{
     color:#000;
+}
+.rate-star{
+display: inline-block;
 }
 
 .hover{
@@ -67,3 +77,4 @@ transition: 0.3s ease;
 min-width: 130px;
 line-height: 45px; 
 }
+
